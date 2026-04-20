@@ -32,5 +32,13 @@
 
 1. **Клонирование репозитория:**
    ```bash
-   git clone [https://github.com/miziev-dev/physics-unit-converter.git](https://github.com/miziev-dev/physics-unit-converter.git)
+   git clone [https://github.com/miziev-dev/physics-converter.git](https://github.com/miziev-dev/physics-unit-converter.git)
+   ```
+2. **Переход в директорию:**
+   ```bash
+   cd physics-converter
+   ```
+3. **Запуск приложения:**
+   ```bash
+   python main.py
    ```
