@@ -42,3 +42,12 @@
    ```bash
    python main.py
    ```
+
+## 📫 Контакты
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasidmiziev279@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mzvw_01)
+
+---
+
+> 💡 *Открыт к стажировкам и первой работе в сфере разработки*
